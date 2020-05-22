@@ -5,3 +5,7 @@ console.log('more logs for us');
 
 function add() {
 }
+
+
+function dontDeleteMe() {
+}
